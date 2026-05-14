@@ -1,6 +1,3 @@
-# lab6_2224802010878_nguyenduongquoc
-
-Lab 6 - User Management (Role Based) Flutter App with ASP.NET Core JWT Backend
 
 ## Getting Started
 
